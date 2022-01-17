@@ -73,6 +73,10 @@ export default class Item extends Vue {
       value: 'eiga',
       label: '栄花物語',
     },
+    {
+      value: 'ookagami',
+      label: '大鏡',
+    },
   ]
 
   baseUrl: any = process.env.BASE_URL
